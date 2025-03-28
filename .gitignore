@@ -1,3 +1,5 @@
 .vscode/*
 */.cph/*
 *.exe
+DEBUG.cpp
+PySol.py
